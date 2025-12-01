@@ -1,7 +1,6 @@
 package com.vignesh.SpringBootApp.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
 
 import com.vignesh.SpringBootApp.model.Laptop;
