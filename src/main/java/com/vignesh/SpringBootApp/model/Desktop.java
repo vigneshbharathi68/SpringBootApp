@@ -1,4 +1,4 @@
-package com.vignesh.SpringBootApp;
+package com.vignesh.SpringBootApp.model;
 
 import org.springframework.stereotype.Component;
 
